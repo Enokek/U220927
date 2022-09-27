@@ -1,5 +1,5 @@
 # U220927
-This project is first game created in Phaser, animations in HTML. 
+This project is my first game created in Phaser, animations in HTML. 
 
 The file manifest consists of index.HTML, assets(the pngs used), and a phaser.js file inside a public file. It also consists
 of a .gitignore file and a phases.js file with modules and etc.
